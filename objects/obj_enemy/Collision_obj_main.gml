@@ -1,0 +1,1 @@
+new_encounter([global.enemies.EnemyG], spr_combat_bg);
