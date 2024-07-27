@@ -1,0 +1,6 @@
+src_text("Toi khon nan qua")
+src_text("Toi thanh that xin loi")
+src_text("CO cai lon dit con ba may")
+src_text("biet on thuong khong")
+src_text("thuong nao?")
+src_text("thuong cho tam than co han...")
